@@ -1,12 +1,41 @@
-# React + Vite
+# FitLog – Fitness Tracker 🏋️‍♂️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FitLog** is a responsive and minimal fitness tracking web application built using React. It allows users to log their workouts, view previous entries, and manage their fitness data easily.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Preview
 
-## Expanding the ESLint configuration
+Coming soon...
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- **Dashboard** showing welcome message or future stats
+- **Add New Workout** with form validation
+- **Workout List** displaying all logged workouts
+- **Profile Page** for user-related information
+- **React Context API** for shared state management
+- **API integration** using JSONPlaceholder (Mock API)
+- **Responsive UI** for both mobile and desktop
+- **Clean custom CSS** with a modern design
+- **Routing with React Router**
+- **Form handling, props, conditional rendering, and lists**
+
+---
+
+## 🧱 Tech Stack
+
+- **React.js** (Functional Components + Hooks)
+- **React Router DOM**
+- **Context API**
+- **Custom CSS**
+- **Mock API** – [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- **Vite** – Build tool
+- **Git & GitHub** – Version control
+
+---
+
+## 📁 Folder Structure
+
