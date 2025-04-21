@@ -37,5 +37,3 @@ Coming soon...
 
 ---
 
-## 📁 Folder Structure
-
