@@ -6,7 +6,7 @@
 
 ## 🔗 Live Preview
 
-Coming soon...
+https://fit-log-two.vercel.app/
 
 ---
 
